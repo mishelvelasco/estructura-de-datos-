@@ -1,0 +1,162 @@
+# estructura-de-datos-
+tareas
+**🗂️  ESTRUCTURA DE DATOS📁******
+<h3 align="center">Foros || Trabajos || Proyectos || Laboratorio </h3>
+
+
+[![imagen-hito-1.png](https://i.postimg.cc/jj8hwZmy/imagen-hito-1.png)](https://postimg.cc/mcH9KNbr)
+
+*Repositorio Completo del Hito 1*
+ 🗂️  APARTADOS DEL REPOSITORIO DEL HITO 1📁**
+
+<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO1"> *(☞ﾟヮﾟ)☞ DIAGNOSTICO HITO 1*   < /A>
+
+
+[![To-Our-1.png](https://i.postimg.cc/ZRbxVPTH/To-Our-1.png)](https://postimg.cc/5HrztCQQ)
+
+##  (っ•́｡•́)っ📚 HITO 2 📚)👩🏻‍💻
+
+*Repositorio Completo del HITO 2*
+<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO2">
+*(☞ﾟヮﾟ)☞ 📁REPOSITORIO COMPLETO DEL HITO 2* 
+
+##  ​🖥️​ APARTADOS DEL REPOSITORIO DEL HITO 2
+
+** Foros || Proyectos || Laboratorios Del Hito 2 .**
+
+ LABORATORIO 1 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO2/laboratorio/Lap%201%20clase">EN _CLASE ☞LABORATORIO REALIZADO EN  HITO2 [consola] 👩🏻‍💻📁  </A>*
+
+ LABORATORIO 2 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO2/laboratorio/lap%202%20clase">EN _CLASE ☞LABORATORIO REALIZADO EN  HITO2 [consola] 👩🏻‍💻📁  </A>*
+
+ LABORATORIO 3 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO2/laboratorio/Lap%203%20tarea">EN _CLASE ☞LABORATORIO REALIZADO EN  HITO2 [consola] 👩🏻‍💻📁  </A>*
+
+EVALUACION PROCESUAL**
+
+ PRESENTACION 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO2/tarea%20de%20defensa%20HITO%202%20PROCESUAL/PROCESUAL%20HITO2%20PRESENTACION%20ESTRUCTURA%20DE%20DATOS.pdf">EVALUACION PROCESUAL  [PDF, Video,Pptx] 👩🏻‍💻📁  </A>*
+
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO2/tarea%20de%20defensa%20HITO%202%20PROCESUAL/PROCESUAL%20HITO2%20PRESENTACION%20ESTRUCTURA%20DE%20DATOS.pptx">EVALUACION PROCESUAL  [PDF, Video,Pptx] 👩🏻‍💻📁  </A>*
+
+
+CONSOLA 🗂️​**   </A>
+
+href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO2/tarea%20de%20defensa%20HITO%202%20PROCESUAL/PAISl">EVALUACION PROCESUAL hito 2   [ Video] 👩🏻‍💻​🎬 🎞️​</A>*
+
+
+[![To-Our.png](https://i.postimg.cc/506sqq9z/To-Our.png)](https://postimg.cc/VrP9ztCs)
+
+##  (っ▀¯▀)つ 🗂️​ HITO 3 🗂️
+
+REPOSITORIO COMPLETO DEL HITO 3 🗂️​**   </A>
+
+<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3"> **(☞ﾟヮﾟ)☞
+
+##  ​💻​​ APARTADOS DEL REPOSITORIO DEL HITO 3​🗂️​​
+
+**LINK COMPLETO DE LOS LABORATORIOS 🗂️​**   </A>
+<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3/LABORATORIO"> **(☞ﾟヮﾟ)☞
+
+** Laboratorios || Proyectos del Hito 3 por separado.**
+
+ LABORATORIO 1 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3/LABORATORIO/LAB%201"> HITO 3 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+LABORATORIO 2 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3/LABORATORIO/LAB2"> HITO 3 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+ LABORATORIO 3 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3/LABORATORIO/LAB3"> HITO 3 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+ LABORATORIO 4 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3/LABORATORIO/LAB4"> HITO 3 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+ EVALUACION PROCESUAL 🗂️​**   </A>
+
+ PRESENTACION🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO3/EXAMEN%20PROCESUAL/PRESENTACION%20PROCESUAL.pptx">Presentacion Powerv Point PDF ☞ Defensa del Hito 3 [ PDF] ​📚📖​</A>*
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO3/EXAMEN%20PROCESUAL/presentaci%C3%B3n%20HITO%203.pdf">Presentacion Powerv Point PDF ☞ Defensa del Hito 3 [ PDF] ​📚📖​</A>*
+
+VIDEO🗂️​**   </A>
+**<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO3/EXAMEN%20PROCESUAL/VIDEO%20HITO%203.txt
+">Videos de defensa hito 3☞ Defensa del Hito 3[Video] ​🎬 🎞️​</A>**
+
+CONSOLA🗂️​**   </A>
+**<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO3/EXAMEN%20PROCESUAL/PilaDeClientes
+">Consola☞ Defensa del Hito 3[Video] ​🎬 🎞️​</A>**
+
+[![To-Our-2.png](https://i.postimg.cc/j2sNsRWh/To-Our-2.png)](https://postimg.cc/BLVtp9B8)
+
+##  (っ▀¯▀)つ 🗂️​ HITO 4 🗂️
+
+REPOSITORIO COMPLETO DEL HITO 4 🗂️​**   </A>
+
+<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO%204"> **(☞ﾟヮﾟ)☞
+
+##  ​💻​​ APARTADOS DEL REPOSITORIO DEL HITO 4​🗂️​​
+
+**LINK COMPLETO DE LOS LABORATORIOS 🗂️​**   </A>
+<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO%204/LABORATORIOS"> **(☞ﾟヮﾟ)☞
+
+** Laboratorios || Proyectos del Hito 4 por separado.**
+
+ LABORATORIO 1 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO%204/LABORATORIOS/LAB1"> HITO 4 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+LABORATORIO 2 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO%204/LABORATORIOS/LAB2"> HITO 4 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+ LABORATORIO 3 🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO%204/LABORATORIOS/LAB3"> HITO 4 ☞ Codigos [Codigo] 💻👩🏻‍</A>*
+
+ EVALUACION PROCESUAL 🗂️​**   </A>
+
+ PRESENTACION🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO%204/PRACTICA%20PROCESUAL/PRESENTACION%20ESTRUCTURA%20HITO%204.pptx">Presentacion Powerv Point PDF ☞ Defensa del Hito 4 [ PDF] ​📚📖​</A>*
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO%204/PRACTICA%20PROCESUAL/presentacion%20hito%204.pdf">Presentacion Powerv Point PDF ☞ Defensa del Hito 4 [ PDF] ​📚📖​</A>*
+
+VIDEO🗂️​**   </A>
+**<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO%204/PRACTICA%20PROCESUAL/VIDEO%20HITO%204.txt
+">Videos de defensa hito 3☞ Defensa del Hito 4[Video] ​🎬 🎞️​</A>**
+
+CONSOLA🗂️​**   </A>
+**<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO%204/PRACTICA%20PROCESUAL/procesual_hito4
+">Consola☞ Defensa del Hito 4[Video] ​🎬 🎞️​</A>**
+
+
+
+## REPOSITORIO COMPLETO DEL HITO 5 Proyecto final  🗂️​**   </A>
+
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO5/proyecto%20finall">Repositorio Hito 5 ☞  todoa las carpetas💻​🗂️​​👩🏻‍</A>*
+
+INFORME🗂️​**   </A>
+ *<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO5/proyecto%20final/informe%20del%20proyecto%20hito%205.pdf"> Informe  ☞ Proyecto hito 5 📄​ </A>
+ 
+DIAGRAMA DE CLASE🗂️​**   </A>
+  *<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO5/proyecto%20final/LINK%20DIAGRAMA.txt"> diagrama de clases  ☞ Proyecto hito 5 📄​ </A>
+
+ PRESENTACION🗂️​**   </A>
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO5/proyecto%20final/ESTRUCTURA%20DE%20DATOS%20BIBLIOTECA%20hito%205%20presentacion.pdf">Presentacion Powerv Point PDF ☞ Defensa del Hito 5 [ PDF] ​📚📖​</A>*
+*<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO5/proyecto%20final/ESTRUCTURA%20DE%20DATOS%20BIBLIOTECA%20presentacion%20hito%205%20(1).pptx">Presentacion Powerv Point PDF ☞ Defensa del Hito 5 [ PDF] ​📚📖​</A>*
+
+VIDEO🗂️​**   </A>
+**<A href="https://github.com/mishelvelasco/estructura-de-datos-/blob/main/HITO5/proyecto%20final/video%20del%20proyecto.txt
+">Videos de defensa hito 3☞ Defensa del Hito 4[Video] ​🎬 🎞️​</A>**
+
+CONSOLA🗂️​**   </A>
+**<A href="https://github.com/mishelvelasco/estructura-de-datos-/tree/main/HITO5/proyecto%20final/Proyecto_X
+">Consola☞ Defensa del Hito 4[Video] ​🎬 🎞️​</A>**
+
+
+
+##  🧑🏻‍💻 Autor
+
+*Iris Michelle Velasco Aruquipa*
+
+
+##  📝 Licencia
+
+Copyright © 2022 [ Iris-Velasco ](https://github.com/mishelvelasco?tab=repositories).
+
